@@ -1,0 +1,23 @@
+version : git --version
+git config --global user.name "vaishakh"
+git config --globa user.email "vaishakh@stackmod.io"
+
+git status 
+git status -s
+
+git add --all
+git add <filename>
+git add .
+
+git commit -m "message for commit"
+
+git log (gives commit details)
+
+git checkout <commitid> (move head to prev  commit with that id)
+
+git push -u origin main  ( origin - refers to remote url repo )
+
+git branch <new-branch>
+git checkout <new-branch>
+git branch -b <new-branch>
+git branch <new-branch> <source-branch>  - create a new branch from source
