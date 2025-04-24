@@ -1,1 +1,1 @@
-the read me is changed by sanujith
+this is a readme changed by janeese and sanu
